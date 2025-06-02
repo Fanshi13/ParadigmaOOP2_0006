@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class AbstraksiKlas
+class AbstraksiClas
 {
 private:
     string x, y;
